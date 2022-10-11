@@ -1,0 +1,28 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-family: verdana;
+}
+
+h2,h3 {
+    font-family: verdana;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 800;
+    color: darkgoldenrod;
+}
+
+p {
+
+    font-family: verdana;
+    font-size: 14px;
+}
+
+body {
+    background-color: lightblue;
+  }
+  
